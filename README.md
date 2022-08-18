@@ -2,7 +2,7 @@
 
 <h1 align="center">Weather App</h1>
 
-<p> From thisapp, you can check the weather and location of any city.
+<p> From this app, you can check the weather and location of any city.
 </p>
 <p> 
 Developed by me in one day
